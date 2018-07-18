@@ -22,3 +22,9 @@ function appendDriver (name){
   newDrivers.push(name)
   return newDrivers
 }
+
+function appendDriver (name){
+  const  newDrivers = drivers.slice();
+  newDrivers.push(name)
+  return newDrivers
+}
