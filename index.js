@@ -14,5 +14,5 @@ function destructivelyRemoveLastDriver (name){
 }
 
 function destructivelyRemoveLastDriver (name){
-  drivers.splice()
+  drivers.splice(name)
 }
