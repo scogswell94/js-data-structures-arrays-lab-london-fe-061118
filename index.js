@@ -1,2 +1,2 @@
 // Write your solution here!
-fuction = drivers ["Milo", "Otis", "Garfield"]
+drivers = ["Milo", "Otis", "Garfield"]
