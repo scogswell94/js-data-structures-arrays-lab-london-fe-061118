@@ -13,6 +13,3 @@ function destructivelyRemoveLastDriver (name){
   drivers.pop()
 }
 
-function destructivelyRemoveLastDriver (name){
-  drivers.splice(name)
-}
